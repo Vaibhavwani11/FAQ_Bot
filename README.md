@@ -15,8 +15,8 @@ Core Idea of Project is to build an sample prototype Educational Website with FA
 Primary Azure Technologies:
 Azure Bot Service, QnA Maker, Azure static Web apps
 
-You can check live project here: https://lively-pebble-0e8224e0f.1.azurestaticapps.net
-Project demo video link on youtube: https://youtu.be/buVcMPT7EKo
+You can check live project here: https://lively-pebble-0e8224e0f.1.azurestaticapps.net <br>
+Project demo video link on youtube: https://youtu.be/buVcMPT7EKo <br>
 link to gitHub repository:https://github.com/Vaibhavwani11/FAQ_Bot 
 
 Screenshots of running website and FAQ bot:
