@@ -24,4 +24,5 @@ You can check project demo here
 Project demo link:
 
 ![alt text](https://github.com/Vaibhavwani11/SupportBot/blob/master/Images/Screenshot1.png)
-![alt text](https://github.com/Vaibhavwani11/SupportBot/blob/master/Images/Screenshot2.png)
+
+![alt text](https://github.com/Vaibhavwani11/SupportBot/blob/master/Images/Screenshot%202.png)
