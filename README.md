@@ -1,4 +1,4 @@
- <h3> an educational webiste having FAQ bot created using Azure Bot services and deployed on azure using azure web apps.</h3>
+ <h5> an educational website having FAQ bot created using Azure Bot services and deployed on azure using azure web apps.</h5>
 Industry:
 Ed-Tech
 
