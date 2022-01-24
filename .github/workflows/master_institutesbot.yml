@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'institutesBot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_31CFC3C71B2948028395A0191E194D67 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5214A5DD694F46F6A7C29644C1DE2793 }}
