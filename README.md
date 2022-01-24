@@ -19,7 +19,8 @@ You can check live project here: https://lively-pebble-0e8224e0f.1.azurestaticap
 Project demo video link on youtube: https://youtu.be/buVcMPT7EKo <br>
 link to gitHub repository:https://github.com/Vaibhavwani11/FAQ_Bot 
 
-Screenshots of running website and FAQ bot:
+<h3> Screenshots of running website and FAQ bot:</h3>
+
 ![alt text](https://github.com/Vaibhavwani11/SupportBot/blob/master/Images/Screenshot1.png)
 
 ![alt text](https://github.com/Vaibhavwani11/SupportBot/blob/master/Images/Screenshot%202.png)
