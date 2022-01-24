@@ -14,10 +14,17 @@
 .col-sm-6 form{
   height:auto;
 }
+.carousel-inner{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-content:flex-end;
+  align-items:flex-end;
+  }
 
 .header {
   background-color: #666362;
-  height: 100px;
+  height: 120px;;
 }
 .header_logo {
     float: left;
