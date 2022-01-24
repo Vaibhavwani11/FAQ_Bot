@@ -21,4 +21,7 @@ Primary Azure Technologies:
 Azure Bot Service, QnA Maker, Azure Web apps
 
 You can check project demo here
-Project demo link: 
+Project demo link:
+
+![alt text](https://github.com/Vaibhavwani11/SupportBot/blob/master/Images/Screenshot1.png)
+![alt text](https://github.com/Vaibhavwani11/SupportBot/blob/master/Images/Screenshot2.png)
