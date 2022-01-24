@@ -14,4 +14,5 @@ While pursuing the internship at FRT many students are having trouble/doubts reg
 Primary Azure Technology:
 Azure Bot Service, QnA Maker,
 
-Project demo link: https://youtu.be/V1twwlByFXo
+You can check project demo here
+Project demo link: https://youtu.be/VYdWxujkr8A
