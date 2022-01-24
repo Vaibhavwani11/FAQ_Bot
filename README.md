@@ -1,18 +1,24 @@
- # Support chatbot
+ <h4> an educational website having FAQ bot created using Azure Bot services and deployed on azure using azure web apps.</h4>
 Industry:
 Ed-Tech
 
 Project Title:
-FRT support chatbot
+Educational Institute Website with FAQ bot
 
 Problem Statement/Opportunity:
-A chatbot to address all queries/questions related to Future Ready Talent internship program.
+ An educational institute wants to build a sample Front End prototype website for their institute. To build a whole website they have chosen Azure Cloud Platform. 
+Website is having a chatbot to address all queries/questions related to institute.
 
 Project Description:
-While pursuing the internship at FRT many students are having trouble/doubts regarding various things such as claiming Student developer pack, completing learning modules, etc. Though there are multiple detailed FAQ's available many students find it difficult to go through whole FAQ section also they are lazy to read all the points carefully. This chatbot will be helpful for answering the queries of students at any time and in one place without too much hustle. knowledge base will be trained by FAQ files as well custom questions. This project provides a very simplified and user-friendly support chatbot to provide answers from a well trained knowledge base. By updating the knowledge base related to relevant resources this project can be useful for any educational institute.
+Core Idea of Project is to build an sample prototype Educational Website with FAQ Bot for a institute with the help of HTML, CSS. 
+The primary goal of sample prototype a website is to provide information to students related to courses offered at institute, location, eligibility criteria,etc with solving problems of students quickly via "FAQ Bot". 
+This project provides a very simplified and user-friendly FAQ chatbot to provide answers from a well trained knowledge base. 
+We are using Azure Technologies with GitHub to complete this project.
+We have used QnA maker portal to create a knowledge base. then deployed the bot using azure bot service.
+Finally we hosted a website on azure using azure web apps.
 
-Primary Azure Technology:
-Azure Bot Service, QnA Maker,
+Primary Azure Technologies:
+Azure Bot Service, QnA Maker, Azure Web apps
 
 You can check project demo here
-Project demo link: https://youtu.be/VYdWxujkr8A
+Project demo link: 
