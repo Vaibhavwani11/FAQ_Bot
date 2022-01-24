@@ -11,7 +11,7 @@ Website is having a chatbot to address all queries/questions related to institut
 
 Project Description:
 Core Idea of Project is to build an sample prototype Educational Website with FAQ Bot for a institute with the help of HTML, CSS. 
-The primary goal of sample prototype a website is to provide information to students related to courses offered at institute, location, eligibility criteria,etc with solving problems of students quickly via "FAQ Bot". 
+The primary goal of sample prototype a website is to provide information to students related to courses location of institute, eligibility criteria,,food/library/accomodation availabilty, etc with solving problems of students quickly via "FAQ Bot". 
 This project provides a very simplified and user-friendly FAQ chatbot to provide answers from a well trained knowledge base. 
 We are using Azure Technologies with GitHub to complete this project.
 We have used QnA maker portal to create a knowledge base. then deployed the bot using azure bot service.
