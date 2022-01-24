@@ -29,7 +29,9 @@ Screenshots of running website and FAQ bot:
 ![alt text](https://github.com/Vaibhavwani11/FAQ_Bot/blob/master/Images/Screenshot3.png)
 
 <h4>GitHub build successful:</h4>
+
 ![alt text](https://github.com/Vaibhavwani11/FAQ_Bot/blob/master/Images/github%20build.png)
 
 <h4>Successfully deployed using azure static web apps:</h4>
+
 ![alt text](https://github.com/Vaibhavwani11/FAQ_Bot/blob/master/Images/deployement%20status.png)
