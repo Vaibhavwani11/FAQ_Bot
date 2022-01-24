@@ -24,10 +24,12 @@ Screenshots of running website and FAQ bot:
 
 ![alt text](https://github.com/Vaibhavwani11/SupportBot/blob/master/Images/Screenshot%202.png)
 
+![alt text](https://github.com/Vaibhavwani11/FAQ_Bot/blob/master/src/Screenshot%20(78).png)
+
 ![alt text](https://github.com/Vaibhavwani11/FAQ_Bot/blob/master/Images/Screenshot3.png)
 
-GitHub build successful:
+<h4>GitHub build successful:</h4>
 ![alt text](https://github.com/Vaibhavwani11/FAQ_Bot/blob/master/Images/github%20build.png)
 
-Successfully deployed using azure static web apps:
+</h4>Successfully deployed using azure static web apps:</h4>
 ![alt text](https://github.com/Vaibhavwani11/FAQ_Bot/blob/master/Images/deployement%20status.png)
