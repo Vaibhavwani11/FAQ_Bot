@@ -23,6 +23,15 @@ Azure Bot Service, QnA Maker, Azure Web apps
 You can check project demo here
 Project demo link:
 
+Screenshots of running website and FAQ bot:
 ![alt text](https://github.com/Vaibhavwani11/SupportBot/blob/master/Images/Screenshot1.png)
 
 ![alt text](https://github.com/Vaibhavwani11/SupportBot/blob/master/Images/Screenshot%202.png)
+
+![alt text](https://github.com/Vaibhavwani11/FAQ_Bot/blob/master/Images/Screenshot3.png)
+
+GitHub build successful:
+![alt text](https://github.com/Vaibhavwani11/FAQ_Bot/blob/master/Images/github%20build.png)
+
+Successfully deployed using azure static web apps:
+![alt text](https://github.com/Vaibhavwani11/FAQ_Bot/blob/master/Images/deployement%20status.png)
