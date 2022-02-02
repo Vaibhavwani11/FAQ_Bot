@@ -1,4 +1,4 @@
- <h4> An educational website which is having a FAQ bot created using Azure Bot services and deployed on azure using azure static web apps.</h4>
+ <h4> An educational website which is having a FAQ bot created using Azure Bot services and deployed on azure using azure static web apps</h4>
 Industry:
 Ed-Tech
 
